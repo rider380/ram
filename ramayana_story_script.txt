@@ -1,0 +1,59 @@
+RAMAYANA — 60-SECOND BILINGUAL STORYBOARD
+
+Title: Sita's Abduction and Ravana's Fall
+Format: 60-second cinematic short, 16:9
+Language: Telugu dialogue and narration, with English translations for production
+
+STORY
+During their forest exile, Rama, Sita, and Lakshmana live peacefully in Panchavati. While Rama and Lakshmana are away, Ravana approaches Sita disguised as an ascetic. He reveals himself, abducts her, and carries her away in the Pushpaka Vimana. The noble vulture Jatayu tries to rescue her but is mortally wounded. Rama and Lakshmana find Jatayu, who points them south. With Hanuman and the Vanara army, Rama reaches Lanka and defeats Ravana. The ending shows the victory of dharma and, for a version following Valmiki's Yuddha Kanda, Rama and Sita's reunion after Sita's fire ordeal.
+
+TIMED SCREENPLAY
+
+0–8 seconds — Panchavati
+Visual: Peaceful hermitage beside the Godavari at golden hour. Sita makes a flower garland; birds and leaves move gently in the breeze.
+Telugu narration: "గోదావరి తీరాన పంచవటిలో రాముడు, సీత, లక్ష్మణుడు వనవాసం గడిపారు."
+English: "By the Godavari, Rama, Sita, and Lakshmana lived in exile at Panchavati."
+Sita: "స్వామీ ఎప్పుడు వస్తారో..."
+English: "I wonder when my lord will return..."
+
+8–18 seconds — The disguised Ravana
+Visual: An elderly saffron-robed ascetic arrives at the hermitage. Sita respectfully offers alms and steps beyond the hut's threshold. The ascetic's eyes turn cold.
+Ascetic/Ravana: "భవతి భిక్షాం దేహి."
+English: "Lady, give me alms."
+Production note: The phrase is Sanskrit, traditionally used by a mendicant; keep it as spoken dialogue rather than presenting it as Telugu.
+
+18–28 seconds — The abduction
+Visual: The ascetic reveals Ravana's imposing ten-headed form and carries Sita toward the Pushpaka Vimana. The craft rises over the forest beneath darkening clouds.
+Sita: "రామా! లక్ష్మణా! రక్షించండి!"
+English: "Rama! Lakshmana! Save me!"
+
+28–34 seconds — Jatayu's courage
+Visual: Jatayu attacks Ravana's flying chariot. Ravana strikes him; the wounded bird falls toward the forest. Keep the action non-graphic.
+Jatayu: "సీతమ్మను విడిచిపెట్టు రావణా!"
+English: "Release Sita, Ravana!"
+
+34–42 seconds — Jatayu's message
+Visual: Rama and Lakshmana return to the empty hermitage and search the forest. They find the dying Jatayu, who gestures south. Rama grieves, then rises with resolve.
+Rama: "సీతా... నువ్వు ఎక్కడ ఉన్నా వెతికి తెస్తాను."
+English: "Sita... wherever you are, I will find you and bring you back."
+
+42–54 seconds — The battle for Lanka
+Visual: Lanka's golden fortress under siege. Hanuman and the Vanara army advance through smoke and fire. Rama faces Ravana and draws his divine bow.
+Rama: "అధర్మం ఓడిపోతుంది రావణా... ఇదే నా బాణం!"
+English: "Unrighteousness will fall, Ravana... this is my arrow!"
+
+54–60 seconds — Dawn over Lanka
+Visual: Ravana is defeated. At sunrise, show a solemn transition to Rama and Sita together after the fire ordeal, with Lakshmana and Hanuman nearby. End on a dignified wide shot filled with warm dawn light.
+Sita: "స్వామీ..."
+English: "My lord..."
+Rama: "ధర్మం గెలిచింది."
+English: "Dharma has prevailed."
+
+VOICE AND EDITING NOTES
+- Telugu lines are short dramatized dialogue for this adaptation, not claimed to be verbatim verses from Valmiki.
+- Use a warm, clear Telugu voice, restrained performances, and natural lip-sync. Add Telugu subtitles in editing rather than asking an image model to render text.
+- Keep orchestral music beneath dialogue; use forest ambience at Panchavati, a rising storm texture during the abduction, restrained impact sounds during the battle, and a quiet dawn resolution.
+- The timings are approximate. If dialogue cannot fit naturally, prioritize clear speech and preserve the scene order.
+
+VALMIKI VERSION NOTE
+The Lakshmana Rekha is not part of Valmiki's Ramayana. This storyboard therefore stages Sita stepping past the hut threshold without a glowing boundary line. The final reunion is framed after Sita's fire ordeal, rather than immediately after Ravana falls. Retellings vary; these choices aim for closer alignment with Valmiki's Yuddha Kanda.

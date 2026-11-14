@@ -1,0 +1,45 @@
+RAMAYANA — CINEMATIC IMAGE PROMPT PACK
+
+This pack contains seven standalone prompts for generating photorealistic storyboard frames. It does not contain generated images. Use the same character reference images, seed, and style settings for every frame if your image generator supports them.
+
+GLOBAL LOOK AND CONTINUITY
+Photorealistic live-action historical fantasy, ancient Treta Yuga India, respectful epic tone, natural skin texture, believable human anatomy, handcrafted period materials, detailed forest and architecture, natural cinematic lighting, subtle 35mm film grain, ARRI Alexa 65 look, anamorphic composition, 16:9 landscape, 4K detail. No modern objects, no text, captions, logos, watermarks, cartoon, illustration, or plastic-looking CGI. Keep all character faces, clothing, jewelry, and colors consistent in every frame.
+
+CHARACTER REFERENCE GUIDE
+Rama: noble, composed, dark blue-brown skin, long dark hair, simple ochre forest-dweller clothing, bow and quiver, restrained expression.
+Sita: graceful, warm brown skin, simple earth-toned sari, jasmine flowers in her hair, dignified expression.
+Lakshmana: athletic, alert, dark hair, forest-dweller attire matching Rama's, bow and quiver, fiercely loyal.
+Ravana: imposing king with ten distinct heads arranged coherently, gold ornaments, black-and-gold armor, commanding presence; avoid duplicated or malformed faces.
+Jatayu: enormous, majestic aged vulture with realistic layered feathers and a broad wingspan.
+Hanuman: powerful vanara hero with expressive, dignified face, traditional warrior attire, mace; depict respectfully and realistically.
+Vanara army: diverse forest-warrior allies with natural animal-like features, practical ancient weapons, no modern gear.
+
+SCENE 1 — PANCHAVATI AT GOLDEN HOUR
+Wide cinematic establishing frame of a modest thatched forest hermitage beside the Godavari River in Panchavati, golden-hour light filtering through trees. Sita sits outside weaving a garland of flowers; a small clay water pot and woven basket nearby. Birds perch in the branches, leaves stir in a soft breeze, tranquil river glimmers in the background. Peaceful, intimate, historically grounded, photorealistic live-action film still. Keep Sita's face and jasmine hairstyle consistent.
+
+SCENE 2 — THE BEGGING SAGE
+Medium-wide frame outside the same Panchavati hut, same golden-hour forest and river. Sita respectfully offers alms to an elderly saffron-robed ascetic holding a wooden staff and kamandalu. The ascetic's face is mostly composed, but his eyes carry a subtle, chilling intensity. Show the hut threshold and natural forest path; keep the scene restrained and realistic. Avoid a glowing magical boundary line for a version specifically faithful to Valmiki's Ramayana.
+
+SCENE 3 — RAVANA'S ABDUCTION
+Dynamic wide frame above the forest canopy beneath gathering storm clouds. Ravana, now revealed in his coherent ten-headed form and black-and-gold armor, carries Sita toward the Pushpaka Vimana, an ornate ancient flying palace craft. Sita reaches back toward the distant forest in alarm; her sari and hair move naturally in the wind. Epic scale, dramatic but non-graphic, realistic cloud light and motion, no modern aircraft or machinery.
+
+SCENE 4 — JATAYU'S LAST STAND
+Action frame in the sky over a vast forest. The giant vulture Jatayu swoops courageously toward Ravana's flying chariot to defend Sita. Ravana raises a sword; Jatayu is wounded and beginning to fall, with no graphic injury or gore. Emphasize Jatayu's courage, sweeping wings, storm-lit clouds, and the immense distance to the forest below. Photorealistic feathers and believable anatomy.
+
+SCENE 5 — RAMA FINDS JATAYU
+Emotional forest clearing near the empty hermitage, late afternoon fading toward dusk. Rama and Lakshmana kneel beside the gravely wounded Jatayu. Rama's grief is visible but restrained; Lakshmana watches with sorrow and alertness. Jatayu weakly gestures toward the southern horizon. The empty hut and scattered flowers are visible in the distance. Natural low light, intimate composition, dignified, no graphic wounds.
+
+SCENE 6 — THE BATTLE AT LANKA
+Epic wide battlefield before Lanka's golden fortress, smoke and fire in the far background, dramatic sunset light. Rama stands in the foreground drawing his divine bow toward Ravana, who faces him in black-and-gold armor with ten coherent heads. Hanuman and the Vanara army appear behind Rama as a determined allied force. Ancient stone architecture, realistic dust, firelight, and historically inspired arms; no gore, modern weapons, or exaggerated fantasy armor.
+
+SCENE 7 — LANKA AT DAWN
+Dawn over Lanka after the battle. Ravana lies defeated at a respectful distance, without graphic detail. Rama stands solemnly as Sita approaches with dignity; Lakshmana and Hanuman remain in the background. Warm sunrise breaks through smoke and illuminates the golden fortress. Compose this as a solemn, humane resolution rather than a triumphant spectacle. For a version closely following Valmiki's Yuddha Kanda, depict their reunion after Sita's fire ordeal (Agni-pariksha), not as an immediate reunion the instant Ravana falls.
+
+GLOBAL NEGATIVE PROMPT
+cartoon, anime, illustration, painting, video game render, obvious CGI, modern clothing, modern buildings, cars, guns, aircraft, electric lights, plastic props, incorrect historical setting, malformed anatomy, extra limbs, duplicated heads, incoherent ten-headed Ravana, inconsistent faces, inconsistent costumes, deformed hands, distorted eyes, blurry, low resolution, oversaturated colors, gore, graphic wounds, text, subtitles, watermark, logo.
+
+OPTIONAL TELUGU DIALOGUE FOR VIDEO EDITING
+Use the user's supplied Telugu dialogue as a separate voiceover/lip-sync pass. Image generators often render Telugu text incorrectly; do not ask the image model to place dialogue or subtitles inside the image. Add verified Telugu captions during editing if needed.
+
+TRADITIONAL-DETAIL NOTE
+The Lakshmana Rekha episode is not present in Valmiki's Ramayana, and some modern retellings depict the abduction and reunion differently. The prompts mark the boundary and ending so the creator can choose a version closer to Valmiki while retaining the requested cinematic scenes.
